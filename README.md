@@ -105,3 +105,4 @@ If you want a deeper dive into the subject feel free to check out [Learning Java
 Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
 
 See [Unlicense](http://unlicense.org) for full details.
+
