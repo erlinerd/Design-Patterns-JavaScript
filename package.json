@@ -27,7 +27,8 @@
     "cypress:open": "cypress open",
     "cypress:run": "cypress run",
     "storybook": "start-storybook -p 6006",
-    "storybook:build": "build-storybook"
+    "storybook:build": "build-storybook",
+    "build:cloudflare": "webpack --mode production"
   },
   "jest": {
     "setupFiles": [
