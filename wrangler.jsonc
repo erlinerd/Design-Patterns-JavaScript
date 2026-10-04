@@ -1,0 +1,13 @@
+{
+  "name": "design-patterns-javascript",
+  "compatibility_date": "2026-10-04",
+  "workers_dev": true,
+  "assets": {
+    "directory": "./build",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "single-page-application"
+  },
+  "routes": [
+    { "pattern": "gofgame.erlinerd.com", "custom_domain": true, "zone_id": "37cc6bd66f3849d28a3cf36161c756dc" }
+  ]
+}
